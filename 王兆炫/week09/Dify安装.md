@@ -6,3 +6,17 @@ Docker Compose部署Dify
 ### 安装Docker
 
 在 [Docker官网](https://www.docker.com/products/docker-desktop/) 下载对应版本的Docker
+
+注意安装好之后要重启电脑,提前做好备份
+
+### 更新WSL
+
+打开docker后,docker会自动弹出需要执行的命令行,直接执行安装即可
+
+安装完毕重新打开即可
+
+### 部署Dify
+
+参照[Dify部署指南](https://docs.dify.ai/zh/self-host/quick-start/docker-compose)
+
+即可安装Dify
