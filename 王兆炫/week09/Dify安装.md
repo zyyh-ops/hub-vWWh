@@ -20,3 +20,10 @@ Docker Compose部署Dify
 参照[Dify部署指南](https://docs.dify.ai/zh/self-host/quick-start/docker-compose)
 
 即可安装Dify
+
+### 打开Dify
+
+使用如下网址即可访问到Dify
+```bash
+http://localhost/install
+```
